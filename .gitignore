@@ -1,0 +1,23 @@
+# Local configuration, caches and build output
+.gradle/
+.idea/
+.pio/
+.vscode/
+build/
+Debug/
+Release/
+BuildCheck/
+__pycache__/
+local.properties
+*.apk
+*.aab
+*.bak
+*.log
+*.keystore
+*.jks
+*.elf
+*.hex
+*.map
+*.bin
+/ESP32_MAX30102_HIVEMQ/config.h
+/BME_Monitor/app/src/main/assets/mqtt_defaults.json
